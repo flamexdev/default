@@ -1,7 +1,7 @@
 const colors = require("./colors")
 
 module.exports = {
-  presets: [],
+  content: [],
   media: false,
   theme: {
     screens: {
